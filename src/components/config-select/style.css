@@ -1,0 +1,26 @@
+.config_select {
+  display: flex;
+}
+
+.options {
+  display: flex;
+  align-items: center;
+  margin-left: 8px;
+}
+
+.options>a {
+  margin-left: 5px;
+  cursor: pointer;
+  background-color: #e7e7e7;
+  color: black;
+  border: none;
+  padding: 4px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.options>a.selected {
+  background-color: #89d0c0;
+  color: white;
+}
