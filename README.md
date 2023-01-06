@@ -1,6 +1,6 @@
 # CodeMirror demo
 
-This is a [CodeMirror](https://codemirror.net) demo for trying some configurations and customizations.
+This is a [CodeMirror](https://codemirror.net) demo for trying some configurations and customizations. You can try it in https://aeqz.github.io/codemirror-demo.
 
 ## Requirements
 
