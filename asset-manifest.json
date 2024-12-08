@@ -1,0 +1,15 @@
+{
+  "bundle.css": "bundle.59b40.css",
+  "bundle.js": "bundle.6a3e0.js",
+  "bundle.js.map": "bundle.6a3e0.js.map",
+  "polyfills.js": "polyfills.54ec4.js",
+  "polyfills.js.map": "polyfills.54ec4.js.map",
+  "route-home.css": "route-home.chunk.fd9c1.css",
+  "route-home.js": "route-home.chunk.5b425.js",
+  "route-home.js.map": "route-home.chunk.5b425.js.map",
+  "assets/favicon.ico": "assets/favicon.ico",
+  "assets/icons/apple-touch-icon.png": "assets/icons/apple-touch-icon.png",
+  "assets/icons/favicon-16x16.png": "assets/icons/favicon-16x16.png",
+  "assets/icons/favicon-32x32.png": "assets/icons/favicon-32x32.png",
+  "manifest.json": "manifest.json"
+}
